@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="app">
+    <h1>Weather App</h1>
+    <div id="location">
+      <p id="cityName">Continuous Fetching your location's weather...</p>
+    </div>
+    <div id="search">
+      <input type="text" id="cityInput" placeholder="Enter city name">
+      <div id="suggestions" class="suggestions"></div> <!-- Suggestions container -->
+      <button id="searchBtn">Search</button>
+    </div>
+    <div id="weather">
+      <p id="currentCity"></p>
+      <div id="weatherIcon"></div>
+      <p id="temperature"></p>
+      <p id="condition"></p>
+    </div>
+    <a href="https://www.weather.com" target="_blank" class="update-link">Get Complete Update</a>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

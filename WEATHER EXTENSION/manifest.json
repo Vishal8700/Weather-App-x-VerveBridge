@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Weather App",
+    "version": "1.0",
+    "description": "Fetches weather details from WeatherAPI.com.",
+    "permissions": ["geolocation", "activeTab", "storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "16": "icon.png",
+      "64": "icon.png",
+      "48": "icon.png"
+    }
+  }
+  
