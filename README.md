@@ -1,8 +1,5 @@
-### README for GitHub: Weather App & Extension in React
 
----
-
-# Weather App & Extension in React
+### Weather App & Extension in React
 
 Welcome to the **Weather App & Extension** project! This repository contains the source code for a dynamic and responsive weather application and a browser extension, both built using React. Developed for **Verve Bridge**, this project aims to provide real-time weather forecasts with a sleek user interface.
 
@@ -48,6 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [WeatherAPI.com](https://www.weatherapi.com/) for providing the weather data.
 - Special thanks to **Verve Bridge** for the inspiration and support for this project.
 
----
-
-Feel free to customize this README further to suit your specific needs and preferences for the project.
