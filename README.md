@@ -3,7 +3,7 @@
 Welcome to the **Weather App & Extension** project! This repository contains the source code for a dynamic and responsive weather application and a browser extension, both built using React. Developed for **Verve Bridge**, this project aims to provide real-time weather forecasts with a sleek user interface.Weather app is responsive to both desktop and mobile screens.
 
 <p align="center">
-  <img src="https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/0504e724-ab3a-48a3-99ee-cc3d2cfe6a85" alt="icon" width="100" height="100" margin-right="2000">
+  <img src="https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/0504e724-ab3a-48a3-99ee-cc3d2cfe6a85" alt="icon" width="100" height="100" margin-right="20">
   <p>               x                 </p>
   <img src="https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/69569b87-6edb-489a-9cff-55a6a89bcfcd" alt="vervebridge" width="200" height="100">
 </p>
