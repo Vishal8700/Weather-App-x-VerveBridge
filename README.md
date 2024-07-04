@@ -1,4 +1,4 @@
-# Weather ![icon](https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/0504e724-ab3a-48a3-99ee-cc3d2cfe6a85)    ![vervebridge](https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/69569b87-6edb-489a-9cff-55a6a89bcfcd)
+ ![icon](https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/0504e724-ab3a-48a3-99ee-cc3d2cfe6a85)    ![vervebridge](https://github.com/Vishal8700/Weather-App-x-VerveBridge/assets/97828106/69569b87-6edb-489a-9cff-55a6a89bcfcd)
 
 App & Extension in React
 
