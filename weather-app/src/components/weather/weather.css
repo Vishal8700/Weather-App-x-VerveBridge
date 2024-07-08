@@ -58,11 +58,12 @@
 
 @media (max-width: 480px) {
   .weather-container {
-    padding: 15px;
+    padding: 0px;
   }
 
   .weather-info {
     margin-bottom: 15px;
+    width:100%;
   }
 
   .weather-info img {
