@@ -102,3 +102,84 @@
   font-size: 16px;
   color: #007bff;
 }
+
+@media screen and (max-width: 767px) {
+
+  .extensions-container {
+    padding: 10px;
+    margin: 20px auto;
+  }
+
+  .extensions-header {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .extension-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .extension-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin-right: 0;
+    margin-bottom: 10px;
+    align-self: center;
+  }
+
+  .extension-details {
+    text-align: center;
+    padding: 0 10px;
+  }
+
+  .extension-details h2 {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .extension-details p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  .download-button {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .btn {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+
+  .howto {
+    margin-top: 20px;
+    padding: 10px;
+  }
+
+  .howto p {
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: left;
+  }
+
+  .howto img {
+    max-width: 100%;
+    margin-bottom: 8px;
+  }
+
+  .howtoinstall {
+    padding: 15px;
+    margin: 20px auto;
+  }
+
+  .howtoinstall h2 {
+    font-size: 18px;
+  }
+
+  .howtoinstall h3 {
+    font-size: 14px;
+  }
+}
